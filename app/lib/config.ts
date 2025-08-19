@@ -6,7 +6,7 @@ import {
 
 export const DEFAULT_GEMINI_MODEL = "gemini-1.5-flash-latest"; 
 
-export const DEFAULT_OPENROUTER_MODEL = "mistralai/devstral-small:free";
+export const DEFAULT_OPENROUTER_MODEL = "openai/gpt-oss-20b:free";
 
 
 export const ANIMATION_ENGINES_CONFIG = {
